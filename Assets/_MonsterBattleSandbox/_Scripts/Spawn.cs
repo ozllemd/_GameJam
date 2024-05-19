@@ -13,6 +13,9 @@ public class Spawn : MonoBehaviour
   private int spawnEnemyCount = 0;
   private int spawnDostCount  = 0;
 
+    [SerializeField] int EnemySayısı;
+    [SerializeField] int FriendSayısı;
+
     // Doldurma süresi (saniye)
     [SerializeField] public float düşmanGelmeSüresi;
 
@@ -51,7 +54,7 @@ public class Spawn : MonoBehaviour
 
     private IEnumerator DüşmanEkip()
     {
-        while (spawnEnemyCount < 100)
+        while (spawnEnemyCount < EnemySayısı)
         {
             var wait = new WaitForSeconds(0.1f);
             yield return wait;
@@ -81,7 +84,7 @@ public class Spawn : MonoBehaviour
   {
     // 1dk sonra gelicekler
 
-    while (spawnDostCount < 200)
+    while (spawnDostCount < FriendSayısı)
     {
       var wait = new WaitForSeconds(0.1f);
       yield return wait;

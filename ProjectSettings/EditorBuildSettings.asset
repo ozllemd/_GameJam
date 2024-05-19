@@ -6,6 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/_MonsterBattleSandbox/Scenes/MonsterBattleSandbox_Arena_01_StoneCircleCreek_v0.0.2_BomberBugUpdate.unity
+    guid: b7377f861126ee24f868aef5940189b4
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

@@ -25,3 +25,11 @@
 )
 ![Görsel 2 Açıklaması](<img width="948" alt="board" src="https://github.com/ozllemd/_GameJam/assets/159573862/614dc0cd-28e8-44ac-8d6c-a1aae067419a">
 )
+
+
+
+| | |
+| --- | --- |
+| ![Görsel 1](<img width="1333" alt="miros" src="https://github.com/ozllemd/_GameJam/assets/159573862/ecb84315-add7-4ced-839b-80ce47ed3d99">
+) | ![Görsel 2](<img width="948" alt="board" src="https://github.com/ozllemd/_GameJam/assets/159573862/b9c909a7-c809-4d59-91b1-afc5e1f6c5d1">
+) |

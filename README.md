@@ -22,4 +22,5 @@
 ![alt text](<img width="1333" alt="miros" src="https://github.com/ozllemd/_GameJam/assets/159573862/358ad0a4-fa2d-4c2b-b933-3f5473060ca9">
 )
 
+![Uploading Ekran Resmi 2024-06-27 15.35.14.png…]()
 

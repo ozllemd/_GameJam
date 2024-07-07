@@ -10,3 +10,5 @@
 <img width="1043" alt="Ekran Resmi 2024-07-07 21 40 53" src="https://github.com/ozllemd/_GameJam/assets/159573862/02ed69f5-ad27-4f47-8bc8-1366a4571694">
 
 
+![unity](https://github.com/ozllemd/_GameJam/assets/159573862/778be29e-74c6-46c5-bc40-b5646c177615)
+<img width="1009" alt="Ekran Resmi 2024-07-05 22 46 02" src="https://github.com/ozllemd/_GameJam/assets/159573862/83dad59b-739c-46c4-ac4f-e55589da2ee2">

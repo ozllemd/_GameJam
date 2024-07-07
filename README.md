@@ -19,22 +19,7 @@
 
 * Sprint board update: Sprint board screenshotları:
 
-![ScreenShot 1](<img width="1333" alt="miros" src="https://github.com/OgyaDev/Unity42/assets/159573862/459e85fc-3310-4a3c-aed9-beb2534be49f">
-)
-
-![ScreenShot 2](<img width="948" alt="board" src="https://github.com/OgyaDev/Unity42/assets/159573862/8af53294-2168-4b46-935a-e860938e0729">
+![alt text](<img width="1333" alt="miros" src="https://github.com/ozllemd/_GameJam/assets/159573862/358ad0a4-fa2d-4c2b-b933-3f5473060ca9">
 )
 
 
-![Görsel 1 Açıklaması](<img width="1333" alt="miros" src="https://github.com/ozllemd/_GameJam/assets/159573862/3494bead-e16d-4072-9fb0-58275d5de85d">
-)
-![Görsel 2 Açıklaması](<img width="948" alt="board" src="https://github.com/ozllemd/_GameJam/assets/159573862/614dc0cd-28e8-44ac-8d6c-a1aae067419a">
-)
-
-
-
-| | |
-| --- | --- |
-| ![Görsel 1](<img width="1333" alt="miros" src="https://github.com/ozllemd/_GameJam/assets/159573862/ecb84315-add7-4ced-839b-80ce47ed3d99">
-) | ![Görsel 2](<img width="948" alt="board" src="https://github.com/ozllemd/_GameJam/assets/159573862/b9c909a7-c809-4d59-91b1-afc5e1f6c5d1">
-) |

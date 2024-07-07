@@ -19,3 +19,9 @@
 
 ![ScreenShot 2](<img width="948" alt="board" src="https://github.com/OgyaDev/Unity42/assets/159573862/8af53294-2168-4b46-935a-e860938e0729">
 )
+
+
+![Görsel 1 Açıklaması](<img width="1333" alt="miros" src="https://github.com/ozllemd/_GameJam/assets/159573862/3494bead-e16d-4072-9fb0-58275d5de85d">
+)
+![Görsel 2 Açıklaması](<img width="948" alt="board" src="https://github.com/ozllemd/_GameJam/assets/159573862/614dc0cd-28e8-44ac-8d6c-a1aae067419a">
+)

@@ -33,7 +33,7 @@ WOBBLY MAYHEM
 ## Hedef Kitle
 
 * Rekabetçi oyuncular
-* Oyun Yayıncıları ve İzleyicileri
+* Oyun yayıncıları ve izleyicileri
 * Multiplayer oyun tutkunları
 
 # Sprint 1

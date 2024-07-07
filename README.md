@@ -12,3 +12,7 @@
 
 ![unity](https://github.com/ozllemd/_GameJam/assets/159573862/778be29e-74c6-46c5-bc40-b5646c177615)
 <img width="1009" alt="Ekran Resmi 2024-07-05 22 46 02" src="https://github.com/ozllemd/_GameJam/assets/159573862/83dad59b-739c-46c4-ac4f-e55589da2ee2">
+![uuii](https://github.com/ozllemd/_GameJam/assets/159573862/e6f646f8-9410-4c9f-9aae-7ae94859b95e)
+![uii](https://github.com/ozllemd/_GameJam/assets/159573862/49fb1959-e259-4fa5-97cc-a977fa363a11)
+<img width="1163" alt="Ekran Resmi 2024-07-07 21 59 11" src="https://github.com/ozllemd/_GameJam/assets/159573862/83222f51-4547-49d3-bb8b-1311511e008b">
+

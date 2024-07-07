@@ -38,7 +38,7 @@ WOBBLY MAYHEM
 
 # Sprint 1
 
-### * Sprint Notları: 
+### Sprint Notları: 
  * Kapsamda netleştirilmiş olan maddeler user story'den alınacak parçalanmış ve product backlog oluşturulmuştur. Product backlog'tan görev alınarak Sprint başlatılmış ve iki hafta koşulmuştur.
 
 * Sprint içinde tamamlanması tahmin edilen puan: 240 Puan

@@ -11,3 +11,12 @@
 | --- | --- | --- |
 | ![Görsel 1 Açıklaması](<img width="1333" alt="miros" src="https://github.com/ozllemd/_GameJam/assets/159573862/d869fe56-6219-4a43-9731-714ca7471a5b">
 ) | ![Görsel 2 Açıklaması](images/image2.png) | ![Görsel 3 Açıklaması](images/image3.png) |
+
+
+* Sprint board update: Sprint board screenshotları:
+
+![ScreenShot 1](<img width="1333" alt="miros" src="https://github.com/OgyaDev/Unity42/assets/159573862/459e85fc-3310-4a3c-aed9-beb2534be49f">
+)
+
+![ScreenShot 2](<img width="948" alt="board" src="https://github.com/OgyaDev/Unity42/assets/159573862/8af53294-2168-4b46-935a-e860938e0729">
+)

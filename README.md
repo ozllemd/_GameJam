@@ -38,8 +38,7 @@ WOBBLY MAYHEM
 
 # Sprint 1
 
-* Sprint Notları: 
-  * Kapsamda netleştirilmiş olan maddeler user story'den alınacak parçalanmış ve product backlog oluşturulmuştur. Product backlog'tan görev alınarak Sprint başlatılmış ve iki hafta koşulmuştur.
+* Sprint Notları: Kapsamda netleştirilmiş olan maddeler user story'den alınacak parçalanmış ve product backlog oluşturulmuştur. Product backlog'tan görev alınarak Sprint başlatılmış ve iki hafta koşulmuştur.
 
 * Sprint içinde tamamlanması tahmin edilen puan: 240 Puan
 
@@ -63,8 +62,9 @@ WOBBLY MAYHEM
 ![uii](https://github.com/ozllemd/_GameJam/assets/159573862/49fb1959-e259-4fa5-97cc-a977fa363a11)
 <img width="1163" alt="Ekran Resmi 2024-07-07 21 59 11" src="https://github.com/ozllemd/_GameJam/assets/159573862/83222f51-4547-49d3-bb8b-1311511e008b">
 
-* Sprint Review: Tasarlanan karakterler arasında oyunumuz için uygun olan karakter seçilmiş ve geliştirilmesi planlanmıştır, Oyun haritası ve UI tasarımları için ortak kararlılığa varılmıştır.
-* Sprint Review katılımcıları: Tarık Köşker, Oğuzhan Yardımcı, Muhammed Fatih Aktaş, Rabia Tuğçe Kurtuluş, Özlem Deveci.
+* Sprint Review:
+  * Tasarlanan karakterler arasında oyunumuz için uygun olan karakter seçilmiş ve geliştirilmesi planlanmıştır, Oyun haritası ve UI tasarımları için ortak kararlılığa varılmıştır.
+  * Sprint Review katılımcıları: Tarık Köşker, Oğuzhan Yardımcı, Muhammed Fatih Aktaş, Rabia Tuğçe Kurtuluş, Özlem Deveci.
 * Sprint Retrospective:
   * Tasarım grubu için görev dağılımı yapılmıştır.
   * Sprint 2 için daha yoğun tempoda çalışma hedeflenmiştir.

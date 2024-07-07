@@ -7,10 +7,10 @@
 )
 
 
-| Görsel 1 | Görsel 2 | Görsel 3 |
-| --- | --- | --- |
+| Görsel 1 | Görsel 2 |
+| --- | --- |
 | ![Görsel 1 Açıklaması](<img width="1333" alt="miros" src="https://github.com/ozllemd/_GameJam/assets/159573862/d869fe56-6219-4a43-9731-714ca7471a5b">
-) | ![Görsel 2 Açıklaması](images/image2.png) | ![Görsel 3 Açıklaması](images/image3.png) |
+) | ![Görsel 2 Açıklaması](images/image2.png) |
 
 
 * Sprint board update: Sprint board screenshotları:

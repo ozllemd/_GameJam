@@ -7,6 +7,11 @@
 )
 
 
+
+![Açıklama metni](<img width="1333" alt="miros" src="https://github.com/ozllemd/_GameJam/assets/159573862/3494bead-e16d-4072-9fb0-58275d5de85d">)
+
+
+
 | --- | --- |
 | ![Görsel 1 Açıklaması](<img width="1333" alt="miros" src="https://github.com/ozllemd/_GameJam/assets/159573862/d869fe56-6219-4a43-9731-714ca7471a5b">
 ) | ![Görsel 2 Açıklaması](images/image2.png) |

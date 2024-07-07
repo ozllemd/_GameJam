@@ -12,7 +12,7 @@ Fortuna Games (U42)
 
 ## Oyun İsmi
 
-WOBBLY GAMES
+WOBBLY MAYHEM
 
 ## Product Backlog URL
 

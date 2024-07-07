@@ -46,6 +46,9 @@ WOBBLY MAYHEM
 
 * Backlog düzeni ve Story seçimleri: Genel başlıklarınından bahsetmek gerekirse. Karakter kontrolü, Multiplayer mimarisi, silah ve oynanış, karakter tasarımı, harita tasarımı ve user interface. User story'ler daha ufak parçalara ayrılarak product backlog'un düzeni oluşturulmuştur. Ufalanan görevler Fibonacci serisine göre 1,2,3,5,8,13 değerleri kullanılarak puanlanmıştır. Sprint1 görevleri user story maddelerinin bağımlılıklarına göre sprinte dahil edilmiş ve çalışmalara başlanmıştır. Backlog management için Miro tool'u kullanılmıştır.
 
+* Daily Scrum:  Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
+  * https://imgur.com/a/Mrjd0UQ
+
 * Sprint board update: Sprint board screenshotları:
 
 <img width="1043" alt="Ekran Resmi 2024-07-07 21 39 59" src="https://github.com/OgyaDev/Unity42/assets/159573862/3ca097cb-5510-4e5d-af4d-64e3e0ef7811">

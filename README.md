@@ -3,6 +3,8 @@
 
 
 ## Takım Üyeleri
+(U42)![Adsız tasarım](https://github.com/user-attachments/assets/1ae0cb6d-5b02-462b-b0ae-d8f415dbb74a)
+
 
 * [Tarık Köşker - Developer, Product Owner]
 * [Özlem Deveci - Developer, Scrum Master] 

@@ -1,6 +1,5 @@
 # Takım İsmi
-(U42)![Adsız tasarım kopyası](https://github.com/user-attachments/assets/2dce669f-d5be-4d37-aedb-a4c84201846c)
-
+(U42)
 ![Çalışma yüzeyi 2](https://github.com/user-attachments/assets/5591722d-2f49-4dda-afa2-7a4d42ae842a)
 
 

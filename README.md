@@ -1,6 +1,4 @@
 # Takım İsmi
-(U42)![Adsız tasarım](https://github.com/user-attachments/assets/1ae0cb6d-5b02-462b-b0ae-d8f415dbb74a)
-iiiii
 (U42)![Adsız tasarım kopyası](https://github.com/user-attachments/assets/2dce669f-d5be-4d37-aedb-a4c84201846c)
 
 ## Takım Üyeleri

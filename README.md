@@ -1,10 +1,6 @@
 # Takım İsmi
-(U42)![deneme](https://github.com/user-attachments/assets/22256767-9bcd-4040-b361-4cd700689f74)
-
-
-## Takım Üyeleri
 (U42)![Adsız tasarım](https://github.com/user-attachments/assets/1ae0cb6d-5b02-462b-b0ae-d8f415dbb74a)
-
+## Takım Üyeleri
 
 * [Tarık Köşker - Developer, Product Owner]
 * [Özlem Deveci - Developer, Scrum Master] 

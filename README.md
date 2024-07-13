@@ -1,6 +1,9 @@
 # Takım İsmi
 (U42)![Adsız tasarım kopyası](https://github.com/user-attachments/assets/2dce669f-d5be-4d37-aedb-a4c84201846c)
 
+![Çalışma yüzeyi 1](https://github.com/user-attachments/assets/c57eabea-0f84-4ccc-9171-eea2fdacb9fc)
+
+
 ## Takım Üyeleri
 
 * [Tarık Köşker - Developer, Product Owner]

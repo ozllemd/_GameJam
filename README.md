@@ -1,6 +1,6 @@
 # Takım İsmi
+(U42)![deneme](https://github.com/user-attachments/assets/22256767-9bcd-4040-b361-4cd700689f74)
 
-Fortuna Games (U42)
 
 ## Takım Üyeleri
 

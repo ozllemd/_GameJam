@@ -23,7 +23,7 @@ WOBBLY MAYHEM
 
 ## Oyun Açıklaması
 
-Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düellolarına dalın! Silahlarınızı kuşanın ve onlara (şüpheli bir şekilde) hakim olun, arkadaşlarınıza kimin en iyi olduğunu gösterin. Her maç, hızlı tempolu ve unutulmaz bir deneyim sunar.
+Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düellolarına dalın! Silahlarınızı kuşanın ve onlara(şüpheli) hakim olun, arkadaşlarınıza kimin en iyi olduğunu gösterin. Her maç, hızlı tempolu ve unutulmaz bir deneyim sunar.
 
 ## Oyun Özellikleri
 
@@ -43,11 +43,11 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 
 * Sprint Notları: Kapsamda netleştirilmiş olan maddeler user story'den alınacak parçalanmış ve product backlog oluşturulmuştur. Product backlog'tan görev alınarak Sprint başlatılmış ve iki hafta koşulmuştur.
 
-* Sprint içinde tamamlanması tahmin edilen puan: 240 Puan
+* Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
 
-* Puan tamamlama mantığı: Proje boyunca backlog büyüklüğü 240sp'dir. Proje boyunca 3 Sprint koşulacağından dolayı bir sprintin 80sp'lik tamamlanması tahmin edilen eforu bulunmaktadır. 
+* Puan tamamlama mantığı: Proje boyunca tamamlanması gereken 240 puanlık bir backlog bulunmaktadır. Bu backlog, 3 sprint'e bölünerek her sprint için 80 puan hedeflenmiştir.
 
-* Backlog düzeni ve Story seçimleri: Genel başlıklarınından bahsetmek gerekirse. Karakter kontrolü, Multiplayer mimarisi, silah ve oynanış, karakter tasarımı, harita tasarımı ve user interface. User story'ler daha ufak parçalara ayrılarak product backlog'un düzeni oluşturulmuştur. Ufalanan görevler Fibonacci serisine göre 1,2,3,5,8,13 değerleri kullanılarak puanlanmıştır. Sprint1 görevleri user story maddelerinin bağımlılıklarına göre sprinte dahil edilmiş ve çalışmalara başlanmıştır. Backlog management için Miro tool'u kullanılmıştır.
+* Backlog düzeni ve Story seçimleri: Genel başlıklar arasında karakter kontrolü, multiplayer mimarisi, silah ve oynanış, karakter tasarımı, harita tasarımı ve kullanıcı arayüzü bulunmaktadır. User story'ler daha küçük parçalara ayrılarak product backlog'un düzeni oluşturulmuştur. Bu küçük görevlere Fibonacci serisinden 1, 2, 3, 5, 8, 13 değerleri kullanılarak puan verilmiştir. Sprint 1 görevleri, user story maddelerinin bağımlılıklarına göre belirlenmiş ve çalışmalara başlanmıştır. Backlog yönetimi için Miro kullanılmıştır.
 
 * Daily Scrum:  Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
   * https://imgur.com/a/Mrjd0UQ
@@ -74,3 +74,13 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 * Sprint Retrospective:
   * Tasarım grubu için görev dağılımı yapılmıştır.
   * Sprint 2 için daha yoğun tempoda çalışma hedeflenmiştir.
+
+ 
+# Sprint 2
+
+* Sprint Notları: Kalan süreç boyunca yapılacak görevleri gözden geçirdik ve bu sprintte oyunumuzun temel aşamalarını tamamen bitirmeyi hedefledik.
+
+* Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
+
+* Daily Scrum:  Whatsapp ve Discord üzerinden görüşmelere devam edilmiştir.
+  * [Bağlantı Adı](https://imgur.com/a/Mrjd0UQ)

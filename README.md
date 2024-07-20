@@ -2,6 +2,7 @@
 (U42)
 
 ![Çalışma yüzeyi 2](https://github.com/user-attachments/assets/5591722d-2f49-4dda-afa2-7a4d42ae842a)
+![recoil](https://github.com/user-attachments/assets/29bbfd9b-6941-46a2-88a3-816f8e078c34)
 
 
 

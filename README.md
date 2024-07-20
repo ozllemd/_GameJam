@@ -93,4 +93,8 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 
 * Ürün Durumu:
 
+![1](https://github.com/user-attachments/assets/55b8b434-d783-4cdd-a633-d69eb40b70d4)
+![3](https://github.com/user-attachments/assets/c3f9f8df-185c-4b1a-bc7a-f65b1c188731)
+
+
 

@@ -85,4 +85,9 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 * Daily Scrum:  Whatsapp ve Discord üzerinden görüşmelere devam edilmiştir.
   * [Sprint1 Daily Scrum](https://imgur.com/a/Mrjd0UQ)
  
-  **Sprint board update: Sprint board screenshotları:
+  * Sprint board update: Sprint board screenshotları:
+
+<img width="1163" alt="sprint2 1" src="https://github.com/user-attachments/assets/2c4a017b-2787-41e3-8b89-8963798ef5c5">
+<img width="1163" alt="sprint2 2" src="https://github.com/user-attachments/assets/43fb1071-0c14-49b1-b3a1-c18a53951a4b">
+
+

@@ -97,6 +97,8 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 ![3](https://github.com/user-attachments/assets/c3f9f8df-185c-4b1a-bc7a-f65b1c188731)
 <img width="1027" alt="charactermodel" src="https://github.com/user-attachments/assets/a7fca0cb-5059-420f-bc1a-f469b476080c">
 <img width="1027" alt="characterrig" src="https://github.com/user-attachments/assets/cf5ed550-baca-4b88-99e0-f4305c5f2bd5">
+![0720](https://github.com/user-attachments/assets/ee00ded1-b327-45ec-9dcd-62a8833c169c)
+
 
 
 

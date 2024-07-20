@@ -84,7 +84,7 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 * Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
 
 * Daily Scrum:  Whatsapp ve Discord üzerinden görüşmelere devam edilmiştir.
-  * [Sprint1 Daily Scrum](https://imgur.com/a/Mrjd0UQ)
+  * [Sprint2 Daily Scrum](https://imgur.com/a/8WeYu53)
  
 * Sprint board update: Sprint board screenshotları:
 

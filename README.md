@@ -2,7 +2,6 @@
 (U42)
 
 ![Çalışma yüzeyi 2](https://github.com/user-attachments/assets/5591722d-2f49-4dda-afa2-7a4d42ae842a)
-![recoil](https://github.com/user-attachments/assets/29bbfd9b-6941-46a2-88a3-816f8e078c34)
 
 
 
@@ -61,8 +60,9 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 
 * Ürün Durumu:
 
-![Açıklama metni](https://cdn.discordapp.com/attachments/1250405114477416525/1259564074023256175/recoil.gif?ex=668c23f4&is=668ad274&hm=da7d39d909cf7d1a3eefefc5aff689c068f37fbcddd67dab7d0a8d949efbd983&)
-![Açıklama metni](https://cdn.discordapp.com/attachments/1250405114477416525/1259586674288234557/collectible.gif?ex=668c3901&is=668ae781&hm=3847de167fd3a92740201ef082466a4d1c7bc775ce834747065ba6c85db5efe4&)
+![recoil](https://github.com/user-attachments/assets/29bbfd9b-6941-46a2-88a3-816f8e078c34)
+![collectible](https://github.com/user-attachments/assets/4f2b193b-6997-4972-a495-8072441eb9c0)
+
 ![unity](https://github.com/ozllemd/_GameJam/assets/159573862/778be29e-74c6-46c5-bc40-b5646c177615)
 <img width="1009" alt="Ekran Resmi 2024-07-05 22 46 02" src="https://github.com/ozllemd/_GameJam/assets/159573862/83dad59b-739c-46c4-ac4f-e55589da2ee2">
 ![uuii](https://github.com/ozllemd/_GameJam/assets/159573862/e6f646f8-9410-4c9f-9aae-7ae94859b95e)
@@ -90,5 +90,7 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 
 <img width="1163" alt="sprint2 1" src="https://github.com/user-attachments/assets/2c4a017b-2787-41e3-8b89-8963798ef5c5">
 <img width="1163" alt="sprint2 2" src="https://github.com/user-attachments/assets/43fb1071-0c14-49b1-b3a1-c18a53951a4b">
+
+* Ürün Durumu:
 
 

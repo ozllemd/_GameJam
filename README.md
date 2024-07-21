@@ -79,7 +79,7 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
  
 # Sprint 2
 
-* Sprint Notları: Kalan süreç boyunca yapılacak görevleri gözden geçirdik ve bu sprintte oyunumuzun temel aşamalarını tamamen bitirmeyi hedefledik.
+* Sprint Notları: Kalan süreç boyunca yapılacak görevleri gözden geçirdik ve bu sprintte oyunumuzun temel aşamalarını bitirmeyi hedefledik.
 
 * Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
 

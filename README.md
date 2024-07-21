@@ -100,7 +100,11 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 <img width="1027" alt="charactermodel" src="https://github.com/user-attachments/assets/a7fca0cb-5059-420f-bc1a-f469b476080c">
 <img width="1027" alt="characterrig" src="https://github.com/user-attachments/assets/cf5ed550-baca-4b88-99e0-f4305c5f2bd5">
 
-
+* Sprint Review:
+  *
+  * Sprint Review katılımcıları: Tarık Köşker, Oğuzhan Yardımcı, Muhammed Fatih Aktaş, Rabia Tuğçe Kurtuluş, Özlem Deveci.
+* Sprint Retrospective:
+  *
 
 
 

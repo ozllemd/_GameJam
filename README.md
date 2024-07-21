@@ -101,10 +101,11 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 <img width="1027" alt="characterrig" src="https://github.com/user-attachments/assets/cf5ed550-baca-4b88-99e0-f4305c5f2bd5">
 
 * Sprint Review:
-  * 
+  * Aktif fizikler konusunda Inverse kinematics rotasına geçildi ve prosedürel animasyonlar ile devam edilecek, 
+Multiplayer'ın çekirdek implementasyonu kısmında hala alınan buglar var ilerleyen günlerde kod kısmında olan herkesin yoğunluğunu buraya vermesi gerek
   * Sprint Review katılımcıları: Tarık Köşker, Oğuzhan Yardımcı, Muhammed Fatih Aktaş, Özlem Deveci.
 * Sprint Retrospective:
-  *
+  * Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır ve aktifliğin arttırılması hedeflenmiştir.
 
 
 

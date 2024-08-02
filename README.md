@@ -14,6 +14,7 @@
 | Tarık Köşker | Developer |
 |----------|----------|
 | Özlem Deveci  | Developer  |
+|----------|----------|
 | HMuhammet Fatih Aktaş  | Developer  |
 
 

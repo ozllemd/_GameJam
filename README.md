@@ -7,7 +7,6 @@
 
 ## Takım Üyeleri
 
-|          |          |          |
 |----------|----------|----------|
 | Tarık Köşker   | Developer   | Product Owner   |
 | Özlem Deveci   | Developer  | Scrum Master   |

@@ -1,6 +1,11 @@
+<details>
+  <summary>Sprint 1</summary>
+  
+  Buraya Sprint 1 detaylarını ekleyin. Bu metin, "Sprint 1" başlığına tıkladığınızda görünecektir.
+
 
 # Proje Başlığı
-
+</details>
 ## İçindekiler
 - [Sprint 1](# Sprint 1)
 - [Sprint 2](#sprint-2)

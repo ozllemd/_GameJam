@@ -17,9 +17,12 @@
 | Muhammet Fatih Aktaş  | Developer  |
 
 
-| Veri 1 | Veri 2 | Veri 3 |
-| Veri 4 | Veri 5 | Veri 6 |
-| Veri 7 | Veri 8 | Veri 9 |
+|          |          |          |
+|----------|----------|----------|
+| Veri 1   | Veri 2   | Veri 3   |
+| Veri 4   | Veri 5   | Veri 6   |
+| Veri 7   | Veri 8   | Veri 9   |
+
 
 
 

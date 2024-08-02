@@ -16,7 +16,8 @@
 ## Oyun İsmi
 
 WOBBLY MAYHEM
-![wmlogokkucuk](https://github.com/user-attachments/assets/ef759fb5-004f-4cbd-904e-aaee1695da8d)
+![wmlogo2](https://github.com/user-attachments/assets/4d2ef0b5-ad29-412d-ba74-3930c8767fec)
+
 
 
 ## Product Backlog URL

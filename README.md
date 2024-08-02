@@ -1,7 +1,7 @@
 # Takım İsmi
 (U42)
 
-![Çalışma yüzeyi 2](https://github.com/user-attachments/assets/5591722d-2f49-4dda-afa2-7a4d42ae842a)
+![teamlogo](https://github.com/user-attachments/assets/5591722d-2f49-4dda-afa2-7a4d42ae842a)
 
 
 
@@ -9,9 +9,8 @@
 
 * [Tarık Köşker - Developer, Product Owner]
 * [Özlem Deveci - Developer, Scrum Master] 
-* [Oğuzhan Yardımcı - Developer]
 * [Muhammet Fatih Aktaş - Developer] 
-* [Rabia Tuğçe Kurtuluş - Developer]
+
 
 ## Oyun İsmi
 
@@ -65,13 +64,11 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 
 ![unity](https://github.com/ozllemd/_GameJam/assets/159573862/778be29e-74c6-46c5-bc40-b5646c177615)
 <img width="1009" alt="Ekran Resmi 2024-07-05 22 46 02" src="https://github.com/ozllemd/_GameJam/assets/159573862/83dad59b-739c-46c4-ac4f-e55589da2ee2">
-![uuii](https://github.com/ozllemd/_GameJam/assets/159573862/e6f646f8-9410-4c9f-9aae-7ae94859b95e)
-![uii](https://github.com/ozllemd/_GameJam/assets/159573862/49fb1959-e259-4fa5-97cc-a977fa363a11)
 <img width="1163" alt="Ekran Resmi 2024-07-07 21 59 11" src="https://github.com/ozllemd/_GameJam/assets/159573862/83222f51-4547-49d3-bb8b-1311511e008b">
 
 * Sprint Review:
   * Tasarlanan karakterler arasında oyunumuz için uygun olan karakter seçilmiş ve geliştirilmesi planlanmıştır, Oyun haritası ve UI tasarımları için ortak kararlılığa varılmıştır.
-  * Sprint Review katılımcıları: Tarık Köşker, Oğuzhan Yardımcı, Muhammed Fatih Aktaş, Rabia Tuğçe Kurtuluş, Özlem Deveci.
+  * Sprint Review katılımcıları: Tarık Köşker, Muhammed Fatih Aktaş, Özlem Deveci.
 * Sprint Retrospective:
   * Tasarım grubu için görev dağılımı yapılmıştır.
   * Sprint 2 için daha yoğun tempoda çalışma hedeflenmiştir.
@@ -82,6 +79,8 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 * Sprint Notları: Kalan süreç boyunca yapılacak görevleri gözden geçirdik ve bu sprintte oyunumuzun temel aşamalarını bitirmeyi hedefledik.
 
 * Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
+
+* Puan tamamlama mantığı: Proje boyunca tamamlanması gereken 240 puanlık bir backlog bulunmaktadır. Bu backlog, 3 sprint'e bölünerek her sprint için 80 puan hedeflenmiştir.
 
 * Daily Scrum:  Whatsapp ve Discord üzerinden görüşmelere devam edilmiştir.
   * [Sprint2 Daily Scrum](https://imgur.com/a/8WeYu53)
@@ -103,10 +102,9 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 * Sprint Review:
   * Aktif fizikler konusunda Inverse kinematics rotasına geçildi ve prosedürel animasyonlar ile devam edilecek, 
 Multiplayer'ın çekirdek implementasyonu kısmında hala alınan buglar var ilerleyen günlerde kod kısmında olan herkesin yoğunluğunu buraya vermesi gerek
-  * Sprint Review katılımcıları: Tarık Köşker, Oğuzhan Yardımcı, Muhammed Fatih Aktaş, Özlem Deveci.
+  * Sprint Review katılımcıları: Tarık Köşker, Muhammed Fatih Aktaş, Özlem Deveci.
 * Sprint Retrospective:
   * Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır ve aktifliğin arttırılması hedeflenmiştir.
-
 
 
 

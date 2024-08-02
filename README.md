@@ -46,7 +46,6 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 <details>
  <h1><summary>Sprint 1</summary>
   
-  Buraya Sprint 1 detaylarını ekleyin. Bu metin, "Sprint 1" başlığına tıkladığınızda görünecektir.
   # Sprint 1
 
 * Sprint Notları: Kapsamda netleştirilmiş olan maddeler user story'den alınacak parçalanmış ve product backlog oluşturulmuştur. Product backlog'tan görev alınarak Sprint başlatılmış ve iki hafta koşulmuştur.

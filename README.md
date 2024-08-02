@@ -124,16 +124,17 @@ Multiplayer'ın çekirdek implementasyonu kısmında hala alınan buglar var ile
 
 
 * Ürün Durumu:
+<img width="780" alt="ui1" src="https://github.com/user-attachments/assets/ed8b93fa-68c4-405b-853e-d99323ae1a53">
+<img width="780" alt="ui2" src="https://github.com/user-attachments/assets/36aa2cda-1fd7-487d-8700-0e4d7a4c3862">
+<img width="780" alt="scene" src="https://github.com/user-attachments/assets/d1532192-9ab1-4855-a8f2-ed23e34543a1">
 
 
 * Sprint Review:
-  * Aktif fizikler konusunda Inverse kinematics rotasına geçildi ve prosedürel animasyonlar ile devam edilecek, 
-Multiplayer'ın çekirdek implementasyonu kısmında hala alınan buglar var ilerleyen günlerde kod kısmında olan herkesin yoğunluğunu buraya vermesi gerek
+  * Oyunun tasarımları tamamlandı, belirli bir tarz ve renk paleti oluşturularak oyun bütünlüğü sağlandı.
   * Sprint Review katılımcıları: Tarık Köşker, Muhammed Fatih Aktaş, Özlem Deveci.
 * Sprint Retrospective:
-  * Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır ve aktifliğin arttırılması hedeflenmiştir.
-
-
+  * Sürecin başından itibaren hedeflenen tüm görevler yerine getirilmiş ve proje başarıyla tamamlanmıştır.
+  * Ekip olarak sprintin bitişini kutladık ve oyunumuzu geliştirmek için yeni hedefler kurduk.
 
 
 

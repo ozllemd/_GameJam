@@ -16,6 +16,7 @@
 ## Oyun İsmi
 
 WOBBLY MAYHEM
+![wobblymayhemlogo](https://github.com/user-attachments/assets/fa824f2f-6a52-4997-a432-63f7764d6991)
 
 ## Product Backlog URL
 

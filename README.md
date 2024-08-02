@@ -11,10 +11,10 @@
 | Özlem Deveci | Developer | Scrum Master |
 | Muhammet Fatih Aktaş | Developer | Veri 9 |
 
-| Başlık 1 | Başlık 2 |
+| Tarık Köşker | Developer |
 |----------|----------|
-| Hücre 1  | Hücre 2  |
-| Hücre 3  | Hücre 4  |
+| Özlem Deveci  | Developer  |
+| HMuhammet Fatih Aktaş  | Developer  |
 
 
 | Veri 1 | Veri 2 | Veri 3 |

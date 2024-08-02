@@ -53,7 +53,7 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 * Backlog düzeni ve Story seçimleri: Genel başlıklar arasında karakter kontrolü, multiplayer mimarisi, silah ve oynanış, karakter tasarımı, harita tasarımı ve kullanıcı arayüzü bulunmaktadır. User story'ler daha küçük parçalara ayrılarak product backlog'un düzeni oluşturulmuştur. Bu küçük görevlere Fibonacci serisinden 1, 2, 3, 5, 8, 13 değerleri kullanılarak puan verilmiştir. Sprint 1 görevleri, user story maddelerinin bağımlılıklarına göre belirlenmiş ve çalışmalara başlanmıştır. Backlog yönetimi için Miro kullanılmıştır.
 
 * Daily Scrum:  Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
-  * [Sprint1 Daily Scrum](https://imgur.com/a/Mrjd0UQ)
+  * [Sprint 1 Daily Scrum](https://imgur.com/a/Mrjd0UQ)
 
 * Sprint board update: Sprint board screenshotları:
 
@@ -86,7 +86,7 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 * Puan tamamlama mantığı: Proje boyunca tamamlanması gereken 240 puanlık bir backlog bulunmaktadır. Bu backlog, 3 sprint'e bölünerek her sprint için 80 puan hedeflenmiştir.
 
 * Daily Scrum:  Whatsapp ve Discord üzerinden görüşmelere devam edilmiştir.
-  * [Sprint2 Daily Scrum](https://imgur.com/a/8WeYu53)
+  * [Sprint 2 Daily Scrum](https://imgur.com/a/8WeYu53)
  
 * Sprint board update: Sprint board screenshotları:
 
@@ -117,10 +117,10 @@ Multiplayer'ın çekirdek implementasyonu kısmında hala alınan buglar var ile
 * Puan tamamlama mantığı: Proje boyunca tamamlanması gereken 240 puanlık bir backlog bulunmaktadır. Bu backlog, 3 sprint'e bölünerek her sprint için 80 puan hedeflenmiştir.
 
 * Daily Scrum:  Whatsapp ve Discord üzerinden görüşmelere devam edilmiştir.
-  * [Sprint2 Daily Scrum](https://imgur.com/a/deqRREN)
+  * [Sprint 3 Daily Scrum](https://imgur.com/a/deqRREN)
  
 * Sprint board update: Sprint board screenshotları:
-<img width="956" alt="Ekran Resmi 2024-08-02 13 11 05" src="https://github.com/user-attachments/assets/92d8889e-7598-4207-8fee-1fb269c7e440">
+<img width="956" alt="sprint3" src="https://github.com/user-attachments/assets/92d8889e-7598-4207-8fee-1fb269c7e440">
 
 
 * Ürün Durumu:

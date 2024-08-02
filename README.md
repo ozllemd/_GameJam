@@ -83,9 +83,42 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 </details>
 
 <details>
-  <summary><h2>Sprint 1</h2></summary>
+  <summary><h1>Sprint 1</h2></summary>
   
   Buraya Sprint 1 detaylarını ekleyin.
+    # Sprint 1
+
+* Sprint Notları: Kapsamda netleştirilmiş olan maddeler user story'den alınacak parçalanmış ve product backlog oluşturulmuştur. Product backlog'tan görev alınarak Sprint başlatılmış ve iki hafta koşulmuştur.
+
+* Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
+
+* Puan tamamlama mantığı: Proje boyunca tamamlanması gereken 240 puanlık bir backlog bulunmaktadır. Bu backlog, 3 sprint'e bölünerek her sprint için 80 puan hedeflenmiştir.
+
+* Backlog düzeni ve Story seçimleri: Genel başlıklar arasında karakter kontrolü, multiplayer mimarisi, silah ve oynanış, karakter tasarımı, harita tasarımı ve kullanıcı arayüzü bulunmaktadır. User story'ler daha küçük parçalara ayrılarak product backlog'un düzeni oluşturulmuştur. Bu küçük görevlere Fibonacci serisinden 1, 2, 3, 5, 8, 13 değerleri kullanılarak puan verilmiştir. Sprint 1 görevleri, user story maddelerinin bağımlılıklarına göre belirlenmiş ve çalışmalara başlanmıştır. Backlog yönetimi için Miro kullanılmıştır.
+
+* Daily Scrum:  Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
+  * [Sprint 1 Daily Scrum](https://imgur.com/a/Mrjd0UQ)
+
+* Sprint board update: Sprint board screenshotları:
+
+<img width="1043" alt="sprint1" src="https://github.com/OgyaDev/Unity42/assets/159573862/5f9d7c7a-88df-4a95-93ff-9ebe23e1253f">
+
+
+* Ürün Durumu:
+
+![recoil](https://github.com/user-attachments/assets/29bbfd9b-6941-46a2-88a3-816f8e078c34)
+![collectible](https://github.com/user-attachments/assets/4f2b193b-6997-4972-a495-8072441eb9c0)
+
+![unity](https://github.com/ozllemd/_GameJam/assets/159573862/778be29e-74c6-46c5-bc40-b5646c177615)
+<img width="1009" alt="Ekran Resmi 2024-07-05 22 46 02" src="https://github.com/ozllemd/_GameJam/assets/159573862/83dad59b-739c-46c4-ac4f-e55589da2ee2">
+<img width="1163" alt="Ekran Resmi 2024-07-07 21 59 11" src="https://github.com/ozllemd/_GameJam/assets/159573862/83222f51-4547-49d3-bb8b-1311511e008b">
+
+* Sprint Review:
+  * Tasarlanan karakterler arasında oyunumuz için uygun olan karakter seçilmiş ve geliştirilmesi planlanmıştır, Oyun haritası ve UI tasarımları için ortak kararlılığa varılmıştır.
+  * Sprint Review katılımcıları: Tarık Köşker, Muhammed Fatih Aktaş, Özlem Deveci.
+* Sprint Retrospective:
+  * Tasarım grubu için görev dağılımı yapılmıştır.
+  * Sprint 2 için daha yoğun tempoda çalışma hedeflenmiştir.
 
 </details>
 
@@ -93,19 +126,7 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
   <summary><h1>Sprint 2</h2></summary>
   
   Buraya Sprint 2 detaylarını ekleyin.
-
-</details>
-
-<details>
-  <summary><h3>Sprint 3</h2></summary>
-  
-  Buraya Sprint 3 detaylarını ekleyin.
-
-</details>
-
-
- 
-# Sprint 2
+  # Sprint 2
 
 * Sprint Notları: Kalan süreç boyunca yapılacak görevleri gözden geçirdik ve bu sprintte oyunumuzun temel aşamalarını bitirmeyi hedefledik.
 
@@ -136,7 +157,13 @@ Multiplayer'ın çekirdek implementasyonu kısmında hala alınan buglar var ile
 * Sprint Retrospective:
   * Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır ve aktifliğin arttırılması hedeflenmiştir.
 
-# Sprint 3
+</details>
+
+<details>
+  <summary><h1>Sprint 3</h2></summary>
+  
+  Buraya Sprint 3 detaylarını ekleyin.
+  # Sprint 3
 
 * Sprint Notları: Projeden iki arkadaşımız ayrıldığı için kalan tüm görevler aramızda yeniden paylaştırılmıştır ve bu sprintte oyunun tamamlanması için daha fazla zaman ayırmak hedeflenmiştir.
 
@@ -163,6 +190,13 @@ Multiplayer'ın çekirdek implementasyonu kısmında hala alınan buglar var ile
 * Sprint Retrospective:
   * Sürecin başından itibaren hedeflenen tüm görevler yerine getirilmiş ve proje başarıyla tamamlanmıştır.
   * Ekip olarak sprintin bitişini kutladık ve oyunumuzu geliştirmek için yeni hedefler kurduk.
+
+</details>
+
+
+ 
+
+
 
 
 

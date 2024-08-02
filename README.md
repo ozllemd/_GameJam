@@ -6,7 +6,6 @@
 
 
 ## Takım Üyeleri
-
 |          |          |          |
 |----------|----------|----------|
 | Tarık Köşker   | Developer   | Product Owner   |

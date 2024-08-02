@@ -1,3 +1,26 @@
+
+# Proje Başlığı
+
+## İçindekiler
+- [Sprint 1](# Sprint 1)
+- [Sprint 2](#sprint-2)
+- [Sprint 3](#sprint-3)
+
+## Sprint 1
+Buraya Sprint 1 detaylarını ekleyin.
+
+## Sprint 2
+Buraya Sprint 2 detaylarını ekleyin.
+
+## Sprint 3
+Buraya Sprint 3 detaylarını ekleyin.
+
+
+
+
+
+
+
 # Takım İsmi
 (U42)
 

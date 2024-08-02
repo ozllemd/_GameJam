@@ -108,6 +108,30 @@ Multiplayer'ın çekirdek implementasyonu kısmında hala alınan buglar var ile
 * Sprint Retrospective:
   * Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır ve aktifliğin arttırılması hedeflenmiştir.
 
+# Sprint 3
+
+* Sprint Notları: Projeden iki arkadaşımız ayrıldığı için kalan tüm görevler aramızda yeniden paylaştırılmıştır ve bu sprintte oyunun tamamlanması için daha fazla zaman ayırmak hedeflenmiştir.
+
+* Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
+
+* Puan tamamlama mantığı: Proje boyunca tamamlanması gereken 240 puanlık bir backlog bulunmaktadır. Bu backlog, 3 sprint'e bölünerek her sprint için 80 puan hedeflenmiştir.
+
+* Daily Scrum:  Whatsapp ve Discord üzerinden görüşmelere devam edilmiştir.
+  * [Sprint2 Daily Scrum](https://imgur.com/a/deqRREN)
+ 
+* Sprint board update: Sprint board screenshotları:
+<img width="956" alt="Ekran Resmi 2024-08-02 13 11 05" src="https://github.com/user-attachments/assets/92d8889e-7598-4207-8fee-1fb269c7e440">
+
+
+* Ürün Durumu:
+
+
+* Sprint Review:
+  * Aktif fizikler konusunda Inverse kinematics rotasına geçildi ve prosedürel animasyonlar ile devam edilecek, 
+Multiplayer'ın çekirdek implementasyonu kısmında hala alınan buglar var ilerleyen günlerde kod kısmında olan herkesin yoğunluğunu buraya vermesi gerek
+  * Sprint Review katılımcıları: Tarık Köşker, Muhammed Fatih Aktaş, Özlem Deveci.
+* Sprint Retrospective:
+  * Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır ve aktifliğin arttırılması hedeflenmiştir.
 
 
 

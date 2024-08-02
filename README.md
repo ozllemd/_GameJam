@@ -12,6 +12,7 @@
 | Muhammet Fatih Aktaş | Developer | Veri 9 |
 
 | Tarık Köşker | Developer |
+|----------|----------|
 | Özlem Deveci  | Developer  |
 | Muhammet Fatih Aktaş  | Developer  |
 

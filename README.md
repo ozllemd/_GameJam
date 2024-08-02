@@ -44,7 +44,7 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 * Oyun yayıncıları ve izleyicileri
 
 <details>
-  <summary>Sprint 1</summary>
+ <h1><summary>Sprint 1</summary>
   
   Buraya Sprint 1 detaylarını ekleyin. Bu metin, "Sprint 1" başlığına tıkladığınızda görünecektir.
   # Sprint 1

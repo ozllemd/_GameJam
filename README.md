@@ -98,8 +98,8 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 ![1](https://github.com/user-attachments/assets/55b8b434-d783-4cdd-a633-d69eb40b70d4)
 ![2](https://github.com/user-attachments/assets/fce8a437-006c-4ca4-8d98-27d85c8b900f)
 ![3](https://github.com/user-attachments/assets/c3f9f8df-185c-4b1a-bc7a-f65b1c188731)
-<img width="1027" alt="charactermodel" src="https://github.com/user-attachments/assets/a7fca0cb-5059-420f-bc1a-f469b476080c">
-<img width="1027" alt="characterrig" src="https://github.com/user-attachments/assets/cf5ed550-baca-4b88-99e0-f4305c5f2bd5">
+![chractercalisma](https://github.com/user-attachments/assets/833dabef-a0e0-4e19-bb59-99ec9d85f1f7)
+
 
 * Sprint Review:
   * Aktif fizikler konusunda Inverse kinematics rotasına geçildi ve prosedürel animasyonlar ile devam edilecek, 

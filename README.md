@@ -46,7 +46,6 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 <details>
   <summary><h1>Sprint 1</h2></summary>
   
-  
     # Sprint 1
 
 * Sprint Notları: Kapsamda netleştirilmiş olan maddeler user story'den alınacak parçalanmış ve product backlog oluşturulmuştur. Product backlog'tan görev alınarak Sprint başlatılmış ve iki hafta koşulmuştur.
@@ -86,7 +85,6 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 <details>
   <summary><h1>Sprint 2</h2></summary>
   
-  Buraya Sprint 2 detaylarını ekleyin.
   # Sprint 2
 
 * Sprint Notları: Kalan süreç boyunca yapılacak görevleri gözden geçirdik ve bu sprintte oyunumuzun temel aşamalarını bitirmeyi hedefledik.
@@ -123,7 +121,6 @@ Multiplayer'ın çekirdek implementasyonu kısmında hala alınan buglar var ile
 <details>
   <summary><h1>Sprint 3</h2></summary>
   
-  Buraya Sprint 3 detaylarını ekleyin.
   # Sprint 3
 
 * Sprint Notları: Projeden iki arkadaşımız ayrıldığı için kalan tüm görevler aramızda yeniden paylaştırılmıştır ve bu sprintte oyunun tamamlanması için daha fazla zaman ayırmak hedeflenmiştir.

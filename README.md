@@ -82,6 +82,28 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 
 </details>
 
+<details>
+  <summary><h2>Sprint 1</h2></summary>
+  
+  Buraya Sprint 1 detaylarını ekleyin.
+
+</details>
+
+<details>
+  <summary><h2>Sprint 2</h2></summary>
+  
+  Buraya Sprint 2 detaylarını ekleyin.
+
+</details>
+
+<details>
+  <summary><h2>Sprint 3</h2></summary>
+  
+  Buraya Sprint 3 detaylarını ekleyin.
+
+</details>
+
+
  
 # Sprint 2
 

@@ -9,9 +9,11 @@
 ## Takım Üyeleri
          
 
+|   s       |          |          
+|----------|----------|
 | Tarık Köşker   | Product Owner   
 | Özlem Deveci   | Scrum Master   
-| Muhammet Fatih Aktaş   | Developer   
+| Muhammet Fatih Aktaş   | Developer 
 
 
 ## Oyun İsmi

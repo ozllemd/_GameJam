@@ -33,15 +33,14 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 
 * 3D
 * Multiplayer
-* Low Poly
-* Toon Shader
 * Fizik Tabanlı
+* Low Poly
+
 
 ## Hedef Kitle
 
 * Rekabetçi oyuncular
 * Oyun yayıncıları ve izleyicileri
-* Multiplayer oyun tutkunları
 
 # Sprint 1
 
@@ -58,7 +57,6 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 
 * Sprint board update: Sprint board screenshotları:
 
-<img width="1043" alt="Ekran Resmi 2024-07-07 21 39 59" src="https://github.com/OgyaDev/Unity42/assets/159573862/3ca097cb-5510-4e5d-af4d-64e3e0ef7811">
 <img width="1043" alt="Ekran Resmi 2024-07-07 21 40 53" src="https://github.com/OgyaDev/Unity42/assets/159573862/5f9d7c7a-88df-4a95-93ff-9ebe23e1253f">
 
 

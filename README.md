@@ -17,7 +17,7 @@
 
 WOBBLY MAYHEM
 
-![wmlogo2](https://github.com/user-attachments/assets/4d2ef0b5-ad29-412d-ba74-3930c8767fec)
+![wmlogo](https://github.com/user-attachments/assets/4d2ef0b5-ad29-412d-ba74-3930c8767fec)
 
 
 
@@ -57,7 +57,7 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
 
 * Sprint board update: Sprint board screenshotları:
 
-<img width="1043" alt="Ekran Resmi 2024-07-07 21 40 53" src="https://github.com/OgyaDev/Unity42/assets/159573862/5f9d7c7a-88df-4a95-93ff-9ebe23e1253f">
+<img width="1043" alt="sprint1" src="https://github.com/OgyaDev/Unity42/assets/159573862/5f9d7c7a-88df-4a95-93ff-9ebe23e1253f">
 
 
 * Ürün Durumu:
@@ -90,8 +90,8 @@ Wobbly Mayhem ile arkadaşlarınıza karşı kaotik ve fizik tabanlı PvP düell
  
 * Sprint board update: Sprint board screenshotları:
 
-<img width="1163" alt="sprint2 1" src="https://github.com/user-attachments/assets/2c4a017b-2787-41e3-8b89-8963798ef5c5">
-<img width="1163" alt="sprint2 2" src="https://github.com/user-attachments/assets/43fb1071-0c14-49b1-b3a1-c18a53951a4b">
+<img width="1163" alt="sprint2 2.1" src="https://github.com/user-attachments/assets/2c4a017b-2787-41e3-8b89-8963798ef5c5">
+<img width="1163" alt="sprint2 2.2" src="https://github.com/user-attachments/assets/43fb1071-0c14-49b1-b3a1-c18a53951a4b">
 
 * Ürün Durumu:
 

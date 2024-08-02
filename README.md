@@ -21,7 +21,7 @@
 |----------|----------|----------|
 | Tarık Köşker   | Developer   | Product Owner   |
 | Özlem Deveci   | Developer  | Scrum Master   |
-| Muhammet Fatih Aktaş   | Developer   | Veri 9   |
+| Muhammet Fatih Aktaş   | Developer   |          |
 
 
 

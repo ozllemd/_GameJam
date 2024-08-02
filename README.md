@@ -7,6 +7,12 @@
 
 ## Takım Üyeleri
 
+| Tarık Köşker | Developer | Product Owner |
+| Özlem Deveci | Developer | Scrum Master |
+| Muhammet Fatih Aktaş | Developer | Veri 9 |
+
+
+
 * [Tarık Köşker - Developer, Product Owner]
 * [Özlem Deveci - Developer, Scrum Master] 
 * [Muhammet Fatih Aktaş - Developer] 
